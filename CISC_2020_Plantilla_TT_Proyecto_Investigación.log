@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.5)  5 DEC 2020 18:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.12.5)  7 DEC 2020 22:44
 entering extended mode
 **./CISC_2020_Plantilla_TT_Proyecto_Investigaci처n.tex
 (CISC_2020_Plantilla_TT_Proyecto_Investigaci처n.tex
@@ -1377,8 +1377,8 @@ File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__pdf_internal_box=\box140
 )
 (CISC_2020_Plantilla_TT_Proyecto_Investigaci처n.aux
-LaTeX Info: Redefining \. on input line 25.
-LaTeX Info: Redefining \% on input line 25.
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
 
 
 LaTeX Warning: Label `Tabla4' multiply defined.
@@ -1520,7 +1520,7 @@ LaTeX Info: Redefining \% on input line 93.
 
 ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 93.
-<Imagenes/Figura1.png, id=318, 224.84pt x 224.84pt>
+<Imagenes/Figura1.png, id=322, 224.84pt x 224.84pt>
 File: Imagenes/Figura1.png Graphic file (type png)
 <use Imagenes/Figura1.png>
 Package pdftex.def Info: Imagenes/Figura1.png  used on input line 100.
@@ -1531,138 +1531,145 @@ LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <17.28> not available
 (Font)              Font shape `OT1/txr/bx/n' tried instead on input line 101.
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <14.4> not available
 (Font)              Font shape `OT1/txr/bx/n' tried instead on input line 105.
+
+(CISC_2020_Plantilla_TT_Proyecto_Investigaci처n.bbl
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [1
 
 {C:/Users/usuario/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./Imagenes/Fi
-gura1.png>]
-LaTeX Font Info:    Trying to load font information for U+txmia on input line 1
-31.
+gura1.png>])
+LaTeX Info: Redefining \. on input line 121.
+LaTeX Info: Redefining \% on input line 121.
 
-("C:\Program Files\MiKTeX\tex/latex/txfonts\utxmia.fd"
-File: utxmia.fd 2000/12/15 v3.1
-)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 131
-.
-
-("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd"
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 131
-.
-
-("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd"
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+txsyc on input line 1
-31.
-
-("C:\Program Files\MiKTeX\tex/latex/txfonts\utxsyc.fd"
-File: utxsyc.fd 2000/12/15 v3.1
-)
-<Imagenes/Figura3.png, id=327, 77.69025pt x 32.5215pt>
-File: Imagenes/Figura3.png Graphic file (type png)
-<use Imagenes/Figura3.png>
-Package pdftex.def Info: Imagenes/Figura3.png  used on input line 138.
-(pdftex.def)             Requested size: 128.04108pt x 48.37221pt.
-<Imagenes/Figura4.png, id=329, 88.53075pt x 33.12375pt>
-File: Imagenes/Figura4.png Graphic file (type png)
-<use Imagenes/Figura4.png>
-Package pdftex.def Info: Imagenes/Figura4.png  used on input line 138.
-(pdftex.def)             Requested size: 128.05826pt x 48.37288pt.
-<Imagenes/Figura5.png, id=330, 59.0205pt x 30.1125pt>
-File: Imagenes/Figura5.png Graphic file (type png)
-<use Imagenes/Figura5.png>
-Package pdftex.def Info: Imagenes/Figura5.png  used on input line 138.
-(pdftex.def)             Requested size: 128.04697pt x 48.37439pt.
-LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 140.
-
-Overfull \hbox (213.39568pt too wide) in paragraph at lines 178--178
-[]|[]| 
- []
-
-[2 <./Imagenes/Figura3.png> <./Imagenes/Figura4.png> <./Imagenes/Figura5.png>]
 
 Package Fancyhdr Warning: \headheight is too small (13.4457pt): 
 Make it at least 14.49998pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[3] [4] [5] [6] [7]
+[2]
+LaTeX Font Info:    Trying to load font information for U+txmia on input line 1
+33.
+ ("C:\Program Files\MiKTeX\tex/latex/txfonts\utxmia.fd"
+File: utxmia.fd 2000/12/15 v3.1
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 133
+.
+
+("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 133
+.
+
+("C:\Program Files\MiKTeX\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+txsyc on input line 1
+33.
+
+("C:\Program Files\MiKTeX\tex/latex/txfonts\utxsyc.fd"
+File: utxsyc.fd 2000/12/15 v3.1
+)
+<Imagenes/Figura3.png, id=340, 77.69025pt x 32.5215pt>
+File: Imagenes/Figura3.png Graphic file (type png)
+<use Imagenes/Figura3.png>
+Package pdftex.def Info: Imagenes/Figura3.png  used on input line 140.
+(pdftex.def)             Requested size: 128.04108pt x 48.37221pt.
+<Imagenes/Figura4.png, id=342, 88.53075pt x 33.12375pt>
+File: Imagenes/Figura4.png Graphic file (type png)
+<use Imagenes/Figura4.png>
+Package pdftex.def Info: Imagenes/Figura4.png  used on input line 140.
+(pdftex.def)             Requested size: 128.05826pt x 48.37288pt.
+<Imagenes/Figura5.png, id=343, 59.0205pt x 30.1125pt>
+File: Imagenes/Figura5.png Graphic file (type png)
+<use Imagenes/Figura5.png>
+Package pdftex.def Info: Imagenes/Figura5.png  used on input line 140.
+(pdftex.def)             Requested size: 128.04697pt x 48.37439pt.
+LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <10.95> not available
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 142.
+
+Overfull \hbox (213.39568pt too wide) in paragraph at lines 180--180
+[]|[]| 
+ []
+
+[3 <./Imagenes/Figura3.png> <./Imagenes/Figura4.png> <./Imagenes/Figura5.png>]
+[4] [5] [6] [7] [8]
 File: Imagenes/Figura1.png Graphic file (type png)
 <use Imagenes/Figura1.png>
-Package pdftex.def Info: Imagenes/Figura1.png  used on input line 341.
-(pdftex.def)             Requested size: 75.3982pt x 61.74026pt.
- [8]
-File: Imagenes/Figura1.png Graphic file (type png)
-<use Imagenes/Figura1.png>
-Package pdftex.def Info: Imagenes/Figura1.png  used on input line 374.
+Package pdftex.def Info: Imagenes/Figura1.png  used on input line 343.
 (pdftex.def)             Requested size: 75.3982pt x 61.74026pt.
  [9]
-Overfull \hbox (2.27582pt too wide) in paragraph at lines 417--422
+File: Imagenes/Figura1.png Graphic file (type png)
+<use Imagenes/Figura1.png>
+Package pdftex.def Info: Imagenes/Figura1.png  used on input line 376.
+(pdftex.def)             Requested size: 75.3982pt x 61.74026pt.
+ [10]
+Overfull \hbox (2.27582pt too wide) in paragraph at lines 419--424
 [] 
  []
 
 
-Overfull \hbox (2.27582pt too wide) in paragraph at lines 417--422
+Overfull \hbox (2.27582pt too wide) in paragraph at lines 419--424
 [] 
  []
 
 LaTeX Font Info:    Trying to load font information for TS1+txr on input line 4
-28.
+30.
 ("C:\Program Files\MiKTeX\tex/latex/txfonts\ts1txr.fd"
 File: ts1txr.fd 2000/12/15 v3.1
-) [10]
+) [11]
 File: Imagenes/Figura1.png Graphic file (type png)
 <use Imagenes/Figura1.png>
-Package pdftex.def Info: Imagenes/Figura1.png  used on input line 459.
+Package pdftex.def Info: Imagenes/Figura1.png  used on input line 461.
 (pdftex.def)             Requested size: 75.3982pt x 61.74026pt.
 
-Overfull \hbox (0.44577pt too wide) in paragraph at lines 473--491
+Overfull \hbox (0.44577pt too wide) in paragraph at lines 475--493
 [][] 
  []
 
 
-Overfull \hbox (0.44577pt too wide) in paragraph at lines 473--491
+Overfull \hbox (0.44577pt too wide) in paragraph at lines 475--493
 [][] 
  []
 
 
-Overfull \hbox (0.84944pt too wide) in paragraph at lines 492--503
+Overfull \hbox (0.84944pt too wide) in paragraph at lines 494--505
 [][] 
  []
 
 
-Overfull \hbox (0.84944pt too wide) in paragraph at lines 504--510
+Overfull \hbox (0.84944pt too wide) in paragraph at lines 506--512
 [][] 
  []
 
 
-Overfull \hbox (0.84944pt too wide) in paragraph at lines 511--516
+Overfull \hbox (0.84944pt too wide) in paragraph at lines 513--518
 [][] 
  []
 
 
-Overfull \hbox (1.06116pt too wide) in paragraph at lines 524--529
+Overfull \hbox (1.06116pt too wide) in paragraph at lines 526--531
 [][] 
  []
 
-[11] (CISC_2020_Plantilla_TT_Proyecto_Investigaci처n.toc
+[12] (CISC_2020_Plantilla_TT_Proyecto_Investigaci처n.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [12] [13] [14]
-[15])
+ [13] [14] [15]
+[16])
 \tf@toc=\write5
 \openout5 = `CISC_2020_Plantilla_TT_Proyecto_Investigaci처n.toc'.
 
- [16] (CISC_2020_Plantilla_TT_Proyecto_Investigaci처n.lot
+ [17] (CISC_2020_Plantilla_TT_Proyecto_Investigaci처n.lot
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 )
 \tf@lot=\write6
 \openout6 = `CISC_2020_Plantilla_TT_Proyecto_Investigaci처n.lot'.
 
- [17]
+ [18]
 (CISC_2020_Plantilla_TT_Proyecto_Investigaci처n.lof
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
@@ -1670,7 +1677,7 @@ LaTeX Info: Redefining \% on input line 1.
 \tf@lof=\write7
 \openout7 = `CISC_2020_Plantilla_TT_Proyecto_Investigaci처n.lof'.
 
- [18] [19]
+ [19] [20]
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1703,79 +1710,81 @@ LaTeX Info: Redefining \% on input line 1.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- [20
+ [21
 
 ]
 File: Imagenes/Figura1.png Graphic file (type png)
 <use Imagenes/Figura1.png>
-Package pdftex.def Info: Imagenes/Figura1.png  used on input line 620.
+Package pdftex.def Info: Imagenes/Figura1.png  used on input line 622.
 (pdftex.def)             Requested size: 75.3982pt x 61.74026pt.
- [21]
+ [22]
 File: Imagenes/Figura1.png Graphic file (type png)
 <use Imagenes/Figura1.png>
-Package pdftex.def Info: Imagenes/Figura1.png  used on input line 659.
+Package pdftex.def Info: Imagenes/Figura1.png  used on input line 661.
 (pdftex.def)             Requested size: 75.3982pt x 61.74026pt.
 
-[22] [23]
+[23] [24]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 719.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 719.
+(hyperref)                removing `\<let>-command' on input line 721.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@centercr' on input line 719.
+(hyperref)                removing `\\' on input line 721.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightskip' on input line 719.
+(hyperref)                removing `\@centercr' on input line 721.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 719.
+(hyperref)                removing `\rightskip' on input line 721.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\leftskip' on input line 719.
+(hyperref)                removing `\@flushglue' on input line 721.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 719.
+(hyperref)                removing `\leftskip' on input line 721.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\finalhyphendemerits' on input line 719.
+(hyperref)                removing `\@flushglue' on input line 721.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 719.
+(hyperref)                removing `\finalhyphendemerits' on input line 721.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parindent' on input line 719.
+(hyperref)                removing `\z@' on input line 721.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 719.
+(hyperref)                removing `\parindent' on input line 721.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parfillskip' on input line 719.
+(hyperref)                removing `\z@' on input line 721.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@skip' on input line 719.
+(hyperref)                removing `\parfillskip' on input line 721.
 
-[24]
-Overfull \hbox (0.6685pt too wide) in paragraph at lines 752--765
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@skip' on input line 721.
+
+[25] [26
+
+]
+Overfull \hbox (0.6685pt too wide) in paragraph at lines 758--771
 [][] 
  []
 
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <10.95> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 767.
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 773.
 
 
 Package Fancyhdr Warning: \headheight is too small (13.4457pt): 
@@ -1783,126 +1792,70 @@ Make it at least 14.49998pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[25
+[27
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 792.
+(hyperref)                removing `\<let>-command' on input line 798.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 792.
+(hyperref)                removing `\\' on input line 798.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@centercr' on input line 792.
+(hyperref)                removing `\@centercr' on input line 798.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightskip' on input line 792.
+(hyperref)                removing `\rightskip' on input line 798.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 792.
+(hyperref)                removing `\@flushglue' on input line 798.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\leftskip' on input line 792.
+(hyperref)                removing `\leftskip' on input line 798.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 792.
+(hyperref)                removing `\@flushglue' on input line 798.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\finalhyphendemerits' on input line 792.
+(hyperref)                removing `\finalhyphendemerits' on input line 798.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 792.
+(hyperref)                removing `\z@' on input line 798.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parindent' on input line 792.
+(hyperref)                removing `\parindent' on input line 798.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 792.
+(hyperref)                removing `\z@' on input line 798.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parfillskip' on input line 792.
+(hyperref)                removing `\parfillskip' on input line 798.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@skip' on input line 792.
+(hyperref)                removing `\z@skip' on input line 798.
 
 
-Overfull \hbox (0.6685pt too wide) in paragraph at lines 806--837
+Overfull \hbox (0.6685pt too wide) in paragraph at lines 812--843
 [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[26]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 848.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 848.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@centercr' on input line 848.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightskip' on input line 848.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 848.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\leftskip' on input line 848.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 848.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\finalhyphendemerits' on input line 848.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 848.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parindent' on input line 848.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 848.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parfillskip' on input line 848.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@skip' on input line 848.
-
-
-Underfull \vbox (badness 2626) has occurred while \output is active []
-
- [27]
+[28]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\<let>-command' on input line 854.
@@ -1955,284 +1908,340 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\z@skip' on input line 854.
 
-<Imagenes/Figura12.png, id=563, 465.23813pt x 193.47281pt>
+
+Underfull \vbox (badness 2626) has occurred while \output is active []
+
+ [29]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<let>-command' on input line 860.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 860.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@centercr' on input line 860.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\rightskip' on input line 860.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@flushglue' on input line 860.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\leftskip' on input line 860.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@flushglue' on input line 860.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\finalhyphendemerits' on input line 860.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 860.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\parindent' on input line 860.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 860.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\parfillskip' on input line 860.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@skip' on input line 860.
+
+<Imagenes/Figura12.png, id=587, 465.23813pt x 193.47281pt>
 File: Imagenes/Figura12.png Graphic file (type png)
 <use Imagenes/Figura12.png>
-Package pdftex.def Info: Imagenes/Figura12.png  used on input line 866.
+Package pdftex.def Info: Imagenes/Figura12.png  used on input line 872.
 (pdftex.def)             Requested size: 455.25584pt x 142.26427pt.
 
-Overfull \hbox (2.28758pt too wide) in paragraph at lines 866--867
+Overfull \hbox (2.28758pt too wide) in paragraph at lines 872--873
 [][] 
  []
 
-[28 <./Imagenes/Figura12.png>] [29]
+[30 <./Imagenes/Figura12.png>] [31]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 921.
+(hyperref)                removing `\<let>-command' on input line 927.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 921.
+(hyperref)                removing `\\' on input line 927.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@centercr' on input line 921.
+(hyperref)                removing `\@centercr' on input line 927.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightskip' on input line 921.
+(hyperref)                removing `\rightskip' on input line 927.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 921.
+(hyperref)                removing `\@flushglue' on input line 927.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\leftskip' on input line 921.
+(hyperref)                removing `\leftskip' on input line 927.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 921.
+(hyperref)                removing `\@flushglue' on input line 927.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\finalhyphendemerits' on input line 921.
+(hyperref)                removing `\finalhyphendemerits' on input line 927.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 921.
+(hyperref)                removing `\z@' on input line 927.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parindent' on input line 921.
+(hyperref)                removing `\parindent' on input line 927.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 921.
+(hyperref)                removing `\z@' on input line 927.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parfillskip' on input line 921.
+(hyperref)                removing `\parfillskip' on input line 927.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@skip' on input line 921.
-
-[30]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 926.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 926.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@centercr' on input line 926.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightskip' on input line 926.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 926.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\leftskip' on input line 926.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 926.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\finalhyphendemerits' on input line 926.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 926.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parindent' on input line 926.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 926.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parfillskip' on input line 926.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@skip' on input line 926.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 942.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 942.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@centercr' on input line 942.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightskip' on input line 942.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 942.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\leftskip' on input line 942.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 942.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\finalhyphendemerits' on input line 942.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 942.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parindent' on input line 942.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 942.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parfillskip' on input line 942.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@skip' on input line 942.
-
-[31]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 953.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 953.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@centercr' on input line 953.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightskip' on input line 953.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 953.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\leftskip' on input line 953.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 953.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\finalhyphendemerits' on input line 953.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 953.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parindent' on input line 953.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 953.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parfillskip' on input line 953.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@skip' on input line 953.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 955.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 955.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@centercr' on input line 955.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightskip' on input line 955.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 955.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\leftskip' on input line 955.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 955.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\finalhyphendemerits' on input line 955.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 955.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parindent' on input line 955.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 955.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parfillskip' on input line 955.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@skip' on input line 955.
+(hyperref)                removing `\z@skip' on input line 927.
 
 [32]
-<Imagenes/Figura13.png, id=585, 402.75468pt x 301.8778pt>
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<let>-command' on input line 932.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 932.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@centercr' on input line 932.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\rightskip' on input line 932.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@flushglue' on input line 932.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\leftskip' on input line 932.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@flushglue' on input line 932.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\finalhyphendemerits' on input line 932.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 932.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\parindent' on input line 932.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 932.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\parfillskip' on input line 932.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@skip' on input line 932.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<let>-command' on input line 948.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 948.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@centercr' on input line 948.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\rightskip' on input line 948.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@flushglue' on input line 948.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\leftskip' on input line 948.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@flushglue' on input line 948.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\finalhyphendemerits' on input line 948.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 948.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\parindent' on input line 948.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 948.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\parfillskip' on input line 948.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@skip' on input line 948.
+
+[33]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<let>-command' on input line 959.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 959.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@centercr' on input line 959.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\rightskip' on input line 959.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@flushglue' on input line 959.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\leftskip' on input line 959.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@flushglue' on input line 959.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\finalhyphendemerits' on input line 959.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 959.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\parindent' on input line 959.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 959.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\parfillskip' on input line 959.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@skip' on input line 959.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<let>-command' on input line 961.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 961.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@centercr' on input line 961.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\rightskip' on input line 961.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@flushglue' on input line 961.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\leftskip' on input line 961.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@flushglue' on input line 961.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\finalhyphendemerits' on input line 961.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 961.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\parindent' on input line 961.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 961.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\parfillskip' on input line 961.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@skip' on input line 961.
+
+[34]
+<Imagenes/Figura13.png, id=609, 402.75468pt x 301.8778pt>
 File: Imagenes/Figura13.png Graphic file (type png)
 <use Imagenes/Figura13.png>
-Package pdftex.def Info: Imagenes/Figura13.png  used on input line 975.
+Package pdftex.def Info: Imagenes/Figura13.png  used on input line 981.
 (pdftex.def)             Requested size: 452.96826pt x 339.51495pt.
 
 
@@ -2241,167 +2250,114 @@ Make it at least 14.49998pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[33
+[35
 
  <./Imagenes/Figura13.png>]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 985.
+(hyperref)                removing `\<let>-command' on input line 991.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 985.
+(hyperref)                removing `\\' on input line 991.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@centercr' on input line 985.
+(hyperref)                removing `\@centercr' on input line 991.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightskip' on input line 985.
+(hyperref)                removing `\rightskip' on input line 991.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 985.
+(hyperref)                removing `\@flushglue' on input line 991.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\leftskip' on input line 985.
+(hyperref)                removing `\leftskip' on input line 991.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 985.
+(hyperref)                removing `\@flushglue' on input line 991.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\finalhyphendemerits' on input line 985.
+(hyperref)                removing `\finalhyphendemerits' on input line 991.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 985.
+(hyperref)                removing `\z@' on input line 991.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parindent' on input line 985.
+(hyperref)                removing `\parindent' on input line 991.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 985.
+(hyperref)                removing `\z@' on input line 991.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parfillskip' on input line 985.
+(hyperref)                removing `\parfillskip' on input line 991.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@skip' on input line 985.
+(hyperref)                removing `\z@skip' on input line 991.
 
-[34]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 1006.
-
+[36]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 1006.
+(hyperref)                removing `\<let>-command' on input line 1012.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@centercr' on input line 1006.
+(hyperref)                removing `\\' on input line 1012.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightskip' on input line 1006.
+(hyperref)                removing `\@centercr' on input line 1012.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 1006.
+(hyperref)                removing `\rightskip' on input line 1012.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\leftskip' on input line 1006.
+(hyperref)                removing `\@flushglue' on input line 1012.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 1006.
+(hyperref)                removing `\leftskip' on input line 1012.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\finalhyphendemerits' on input line 1006.
+(hyperref)                removing `\@flushglue' on input line 1012.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 1006.
+(hyperref)                removing `\finalhyphendemerits' on input line 1012.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parindent' on input line 1006.
+(hyperref)                removing `\z@' on input line 1012.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 1006.
+(hyperref)                removing `\parindent' on input line 1012.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parfillskip' on input line 1006.
+(hyperref)                removing `\z@' on input line 1012.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@skip' on input line 1006.
+(hyperref)                removing `\parfillskip' on input line 1012.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 1014.
+(hyperref)                removing `\z@skip' on input line 1012.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 1014.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@centercr' on input line 1014.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightskip' on input line 1014.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 1014.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\leftskip' on input line 1014.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 1014.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\finalhyphendemerits' on input line 1014.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 1014.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parindent' on input line 1014.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 1014.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parfillskip' on input line 1014.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@skip' on input line 1014.
-
-[35]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\<let>-command' on input line 1020.
@@ -2454,117 +2410,170 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\z@skip' on input line 1020.
 
-[36]
+[37]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 1036.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 1036.
+(hyperref)                removing `\<let>-command' on input line 1026.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@centercr' on input line 1036.
+(hyperref)                removing `\\' on input line 1026.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightskip' on input line 1036.
+(hyperref)                removing `\@centercr' on input line 1026.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 1036.
+(hyperref)                removing `\rightskip' on input line 1026.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\leftskip' on input line 1036.
+(hyperref)                removing `\@flushglue' on input line 1026.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 1036.
+(hyperref)                removing `\leftskip' on input line 1026.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\finalhyphendemerits' on input line 1036.
+(hyperref)                removing `\@flushglue' on input line 1026.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 1036.
+(hyperref)                removing `\finalhyphendemerits' on input line 1026.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parindent' on input line 1036.
+(hyperref)                removing `\z@' on input line 1026.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 1036.
+(hyperref)                removing `\parindent' on input line 1026.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parfillskip' on input line 1036.
+(hyperref)                removing `\z@' on input line 1026.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@skip' on input line 1036.
+(hyperref)                removing `\parfillskip' on input line 1026.
 
-<Imagenes/Figura38.png, id=602, 313.9228pt x 227.34938pt>
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@skip' on input line 1026.
+
+[38]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<let>-command' on input line 1042.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 1042.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@centercr' on input line 1042.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\rightskip' on input line 1042.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@flushglue' on input line 1042.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\leftskip' on input line 1042.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\@flushglue' on input line 1042.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\finalhyphendemerits' on input line 1042.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 1042.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\parindent' on input line 1042.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@' on input line 1042.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\parfillskip' on input line 1042.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@skip' on input line 1042.
+
+<Imagenes/Figura38.png, id=627, 313.9228pt x 227.34938pt>
 File: Imagenes/Figura38.png Graphic file (type png)
 <use Imagenes/Figura38.png>
-Package pdftex.def Info: Imagenes/Figura38.png  used on input line 1038.
+Package pdftex.def Info: Imagenes/Figura38.png  used on input line 1044.
 (pdftex.def)             Requested size: 184.9398pt x 128.03981pt.
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 1043.
+(hyperref)                removing `\<let>-command' on input line 1049.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 1043.
+(hyperref)                removing `\\' on input line 1049.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@centercr' on input line 1043.
+(hyperref)                removing `\@centercr' on input line 1049.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightskip' on input line 1043.
+(hyperref)                removing `\rightskip' on input line 1049.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 1043.
+(hyperref)                removing `\@flushglue' on input line 1049.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\leftskip' on input line 1043.
+(hyperref)                removing `\leftskip' on input line 1049.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 1043.
+(hyperref)                removing `\@flushglue' on input line 1049.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\finalhyphendemerits' on input line 1043.
+(hyperref)                removing `\finalhyphendemerits' on input line 1049.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 1043.
+(hyperref)                removing `\z@' on input line 1049.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parindent' on input line 1043.
+(hyperref)                removing `\parindent' on input line 1049.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 1043.
+(hyperref)                removing `\z@' on input line 1049.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parfillskip' on input line 1043.
+(hyperref)                removing `\parfillskip' on input line 1049.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@skip' on input line 1043.
+(hyperref)                removing `\z@skip' on input line 1049.
 
-[37 <./Imagenes/Figura38.png>]
+[39 <./Imagenes/Figura38.png>]
 Underfull \vbox (badness 2894) has occurred while \output is active []
 
 
@@ -2574,328 +2583,328 @@ Make it at least 14.49998pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[38
+[40
 
 ]
 Underfull \vbox (badness 1939) has occurred while \output is active []
 
- [39]
-<Imagenes/Figura37.png, id=616, 392.21532pt x 386.19281pt>
+ [41]
+<Imagenes/Figura37.png, id=640, 392.21532pt x 386.19281pt>
 File: Imagenes/Figura37.png Graphic file (type png)
 <use Imagenes/Figura37.png>
-Package pdftex.def Info: Imagenes/Figura37.png  used on input line 1096.
+Package pdftex.def Info: Imagenes/Figura37.png  used on input line 1102.
 (pdftex.def)             Requested size: 455.26932pt x 426.79337pt.
 
-Overfull \hbox (2.30106pt too wide) in paragraph at lines 1096--1097
+Overfull \hbox (2.30106pt too wide) in paragraph at lines 1102--1103
 [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[40]
+[42]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 1107.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 1107.
+(hyperref)                removing `\<let>-command' on input line 1113.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@centercr' on input line 1107.
+(hyperref)                removing `\\' on input line 1113.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightskip' on input line 1107.
+(hyperref)                removing `\@centercr' on input line 1113.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 1107.
+(hyperref)                removing `\rightskip' on input line 1113.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\leftskip' on input line 1107.
+(hyperref)                removing `\@flushglue' on input line 1113.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 1107.
+(hyperref)                removing `\leftskip' on input line 1113.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\finalhyphendemerits' on input line 1107.
+(hyperref)                removing `\@flushglue' on input line 1113.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 1107.
+(hyperref)                removing `\finalhyphendemerits' on input line 1113.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parindent' on input line 1107.
+(hyperref)                removing `\z@' on input line 1113.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 1107.
+(hyperref)                removing `\parindent' on input line 1113.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parfillskip' on input line 1107.
+(hyperref)                removing `\z@' on input line 1113.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@skip' on input line 1107.
+(hyperref)                removing `\parfillskip' on input line 1113.
 
-[41 <./Imagenes/Figura37.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@skip' on input line 1113.
+
+[43 <./Imagenes/Figura37.png>]
 LaTeX Font Info:    Font shape `OT1/txr/b/it' in size <12> not available
-(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 1127
+(Font)              Font shape `OT1/txr/bx/it' tried instead on input line 1133
 .
- [42]
-Overfull \hbox (0.66852pt too wide) in paragraph at lines 1147--1158
+ [44]
+Overfull \hbox (0.66852pt too wide) in paragraph at lines 1153--1164
 [][] 
  []
 
-[43] [44] [45]
-<Imagenes/Figura39.png, id=648, 335.00156pt x 337.26pt>
+[45] [46] [47]
+<Imagenes/Figura39.png, id=672, 335.00156pt x 337.26pt>
 File: Imagenes/Figura39.png Graphic file (type png)
 <use Imagenes/Figura39.png>
-Package pdftex.def Info: Imagenes/Figura39.png  used on input line 1280.
+Package pdftex.def Info: Imagenes/Figura39.png  used on input line 1286.
 (pdftex.def)             Requested size: 227.61913pt x 227.62523pt.
- [46
+ [48
 
  <./Imagenes/Figura39.png>]
-<Imagenes/Figura40.png, id=653, 501.37312pt x 160.34906pt>
+<Imagenes/Figura40.png, id=677, 501.37312pt x 160.34906pt>
 File: Imagenes/Figura40.png Graphic file (type png)
 <use Imagenes/Figura40.png>
-Package pdftex.def Info: Imagenes/Figura40.png  used on input line 1294.
+Package pdftex.def Info: Imagenes/Figura40.png  used on input line 1300.
 (pdftex.def)             Requested size: 227.6202pt x 99.58665pt.
- [47 <./Imagenes/Figura40.png>]
-[48] [49]
-<Imagenes/Figura31.png, id=667, 551.05875pt x 302.63063pt>
+ [49 <./Imagenes/Figura40.png>]
+[50] [51]
+<Imagenes/Figura31.png, id=691, 551.05875pt x 302.63063pt>
 File: Imagenes/Figura31.png Graphic file (type png)
 <use Imagenes/Figura31.png>
-Package pdftex.def Info: Imagenes/Figura31.png  used on input line 1401.
+Package pdftex.def Info: Imagenes/Figura31.png  used on input line 1407.
 (pdftex.def)             Requested size: 369.89693pt x 170.71878pt.
- [50 <./Imagenes/Figura31.png>]
+ [52 <./Imagenes/Figura31.png>]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1434.
+(hyperref)                than one, level fixed on input line 1440.
 
-[51] [52] [53] [54]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 1493.
-
+[53] [54] [55] [56]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 1493.
+(hyperref)                removing `\<let>-command' on input line 1499.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@centercr' on input line 1493.
+(hyperref)                removing `\\' on input line 1499.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightskip' on input line 1493.
+(hyperref)                removing `\@centercr' on input line 1499.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 1493.
+(hyperref)                removing `\rightskip' on input line 1499.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\leftskip' on input line 1493.
+(hyperref)                removing `\@flushglue' on input line 1499.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 1493.
+(hyperref)                removing `\leftskip' on input line 1499.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\finalhyphendemerits' on input line 1493.
+(hyperref)                removing `\@flushglue' on input line 1499.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 1493.
+(hyperref)                removing `\finalhyphendemerits' on input line 1499.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parindent' on input line 1493.
+(hyperref)                removing `\z@' on input line 1499.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 1493.
+(hyperref)                removing `\parindent' on input line 1499.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parfillskip' on input line 1493.
+(hyperref)                removing `\z@' on input line 1499.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@skip' on input line 1493.
+(hyperref)                removing `\parfillskip' on input line 1499.
 
-[55] [56]
-Overfull \hbox (1.30775pt too wide) in paragraph at lines 1531--1541
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@skip' on input line 1499.
+
+[57] [58]
+Overfull \hbox (1.30775pt too wide) in paragraph at lines 1537--1547
 [][] 
  []
 
-[57]
+[59]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 1561.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 1561.
+(hyperref)                removing `\<let>-command' on input line 1567.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@centercr' on input line 1561.
+(hyperref)                removing `\\' on input line 1567.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightskip' on input line 1561.
+(hyperref)                removing `\@centercr' on input line 1567.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 1561.
+(hyperref)                removing `\rightskip' on input line 1567.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\leftskip' on input line 1561.
+(hyperref)                removing `\@flushglue' on input line 1567.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 1561.
+(hyperref)                removing `\leftskip' on input line 1567.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\finalhyphendemerits' on input line 1561.
+(hyperref)                removing `\@flushglue' on input line 1567.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 1561.
+(hyperref)                removing `\finalhyphendemerits' on input line 1567.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parindent' on input line 1561.
+(hyperref)                removing `\z@' on input line 1567.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 1561.
+(hyperref)                removing `\parindent' on input line 1567.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parfillskip' on input line 1561.
+(hyperref)                removing `\z@' on input line 1567.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@skip' on input line 1561.
+(hyperref)                removing `\parfillskip' on input line 1567.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 1573.
+(hyperref)                removing `\z@skip' on input line 1567.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 1573.
+(hyperref)                removing `\<let>-command' on input line 1579.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@centercr' on input line 1573.
+(hyperref)                removing `\\' on input line 1579.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightskip' on input line 1573.
+(hyperref)                removing `\@centercr' on input line 1579.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 1573.
+(hyperref)                removing `\rightskip' on input line 1579.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\leftskip' on input line 1573.
+(hyperref)                removing `\@flushglue' on input line 1579.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 1573.
+(hyperref)                removing `\leftskip' on input line 1579.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\finalhyphendemerits' on input line 1573.
+(hyperref)                removing `\@flushglue' on input line 1579.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 1573.
+(hyperref)                removing `\finalhyphendemerits' on input line 1579.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parindent' on input line 1573.
+(hyperref)                removing `\z@' on input line 1579.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 1573.
+(hyperref)                removing `\parindent' on input line 1579.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parfillskip' on input line 1573.
+(hyperref)                removing `\z@' on input line 1579.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@skip' on input line 1573.
-
-[58]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\<let>-command' on input line 1591.
+(hyperref)                removing `\parfillskip' on input line 1579.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 1591.
+(hyperref)                removing `\z@skip' on input line 1579.
+
+[60]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\<let>-command' on input line 1597.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@centercr' on input line 1591.
+(hyperref)                removing `\\' on input line 1597.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\rightskip' on input line 1591.
+(hyperref)                removing `\@centercr' on input line 1597.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 1591.
+(hyperref)                removing `\rightskip' on input line 1597.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\leftskip' on input line 1591.
+(hyperref)                removing `\@flushglue' on input line 1597.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@flushglue' on input line 1591.
+(hyperref)                removing `\leftskip' on input line 1597.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\finalhyphendemerits' on input line 1591.
+(hyperref)                removing `\@flushglue' on input line 1597.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 1591.
+(hyperref)                removing `\finalhyphendemerits' on input line 1597.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parindent' on input line 1591.
+(hyperref)                removing `\z@' on input line 1597.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 1591.
+(hyperref)                removing `\parindent' on input line 1597.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\parfillskip' on input line 1591.
+(hyperref)                removing `\z@' on input line 1597.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@skip' on input line 1591.
+(hyperref)                removing `\parfillskip' on input line 1597.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\z@skip' on input line 1597.
 
 
 Package Fancyhdr Warning: \headheight is too small (13.4457pt): 
@@ -2903,149 +2912,149 @@ Make it at least 14.49998pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[59
+[61
 
-] [60] [61] [62] [63]
-<Imagenes/Figura32.png, id=728, 548.0475pt x 561.59813pt>
+] [62] [63] [64] [65]
+<Imagenes/Figura32.png, id=752, 548.0475pt x 561.59813pt>
 File: Imagenes/Figura32.png Graphic file (type png)
 <use Imagenes/Figura32.png>
-Package pdftex.def Info: Imagenes/Figura32.png  used on input line 1717.
+Package pdftex.def Info: Imagenes/Figura32.png  used on input line 1723.
 (pdftex.def)             Requested size: 398.34866pt x 312.97604pt.
-<Imagenes/Figura33.png, id=729, 831.105pt x 556.32843pt>
+<Imagenes/Figura33.png, id=753, 831.105pt x 556.32843pt>
 File: Imagenes/Figura33.png Graphic file (type png)
 <use Imagenes/Figura33.png>
-Package pdftex.def Info: Imagenes/Figura33.png  used on input line 1718.
+Package pdftex.def Info: Imagenes/Figura33.png  used on input line 1724.
 (pdftex.def)             Requested size: 398.34251pt x 256.07547pt.
- [64 <./Imagenes/Figura32.png> <./Imagenes/Figura33.png>]
-<Imagenes/Figura34.png, id=734, 367.3725pt x 446.41782pt>
+ [66 <./Imagenes/Figura32.png> <./Imagenes/Figura33.png>]
+<Imagenes/Figura34.png, id=758, 367.3725pt x 446.41782pt>
 File: Imagenes/Figura34.png Graphic file (type png)
 <use Imagenes/Figura34.png>
-Package pdftex.def Info: Imagenes/Figura34.png  used on input line 1727.
+Package pdftex.def Info: Imagenes/Figura34.png  used on input line 1733.
 (pdftex.def)             Requested size: 398.36519pt x 569.10365pt.
- [65 <./Imagenes/Figura34.png>]
-<Imagenes/Figura35.png, id=739, 760.34062pt x 371.88937pt>
+ [67 <./Imagenes/Figura34.png>]
+<Imagenes/Figura35.png, id=764, 760.34062pt x 371.88937pt>
 File: Imagenes/Figura35.png Graphic file (type png)
 <use Imagenes/Figura35.png>
-Package pdftex.def Info: Imagenes/Figura35.png  used on input line 1738.
+Package pdftex.def Info: Imagenes/Figura35.png  used on input line 1744.
 (pdftex.def)             Requested size: 398.34947pt x 284.53416pt.
- [66 <./Imagenes/Figura35.png>] [67] [68]
-Overfull \hbox (1.8685pt too wide) in paragraph at lines 1757--1783
+ [68 <./Imagenes/Figura35.png>] [69] [70]
+Overfull \hbox (1.8685pt too wide) in paragraph at lines 1763--1789
 [][]
  []
 
-[69]
-Overfull \hbox (1.8685pt too wide) in paragraph at lines 1796--1815
+[71]
+Overfull \hbox (1.8685pt too wide) in paragraph at lines 1802--1821
 [][]
  []
 
-[70] [71]
-Overfull \hbox (3.86661pt too wide) in paragraph at lines 1854--1854
+[72] [73]
+Overfull \hbox (3.86661pt too wide) in paragraph at lines 1860--1860
  \OT1/txr/m/n/12 Dependencia/replicabilidad| 
  []
 
-[72]
-<Imagenes/Figura14.png, id=772, 207.77625pt x 178.41656pt>
+[74]
+<Imagenes/Figura14.png, id=797, 207.77625pt x 178.41656pt>
 File: Imagenes/Figura14.png Graphic file (type png)
 <use Imagenes/Figura14.png>
-Package pdftex.def Info: Imagenes/Figura14.png  used on input line 1890.
+Package pdftex.def Info: Imagenes/Figura14.png  used on input line 1896.
 (pdftex.def)             Requested size: 56.90561pt x 56.90388pt.
 File: Imagenes/Figura1.png Graphic file (type png)
 <use Imagenes/Figura1.png>
-Package pdftex.def Info: Imagenes/Figura1.png  used on input line 1891.
+Package pdftex.def Info: Imagenes/Figura1.png  used on input line 1897.
 (pdftex.def)             Requested size: 85.35774pt x 71.13031pt.
-<Imagenes/Figura15.png, id=773, 117.43875pt x 87.32625pt>
+<Imagenes/Figura15.png, id=798, 117.43875pt x 87.32625pt>
 File: Imagenes/Figura15.png Graphic file (type png)
 <use Imagenes/Figura15.png>
-Package pdftex.def Info: Imagenes/Figura15.png  used on input line 1892.
+Package pdftex.def Info: Imagenes/Figura15.png  used on input line 1898.
 (pdftex.def)             Requested size: 56.90575pt x 56.90662pt.
- [73 <./Imagenes/Figura14.png> <./Imagenes/Figura15.png>] [74]
+ [75 <./Imagenes/Figura14.png> <./Imagenes/Figura15.png>] [76]
 File: Imagenes/Figura14.png Graphic file (type png)
 <use Imagenes/Figura14.png>
-Package pdftex.def Info: Imagenes/Figura14.png  used on input line 1938.
+Package pdftex.def Info: Imagenes/Figura14.png  used on input line 1944.
 (pdftex.def)             Requested size: 56.90561pt x 56.90388pt.
 File: Imagenes/Figura1.png Graphic file (type png)
 <use Imagenes/Figura1.png>
-Package pdftex.def Info: Imagenes/Figura1.png  used on input line 1939.
+Package pdftex.def Info: Imagenes/Figura1.png  used on input line 1945.
 (pdftex.def)             Requested size: 85.35774pt x 71.13031pt.
 File: Imagenes/Figura15.png Graphic file (type png)
 <use Imagenes/Figura15.png>
-Package pdftex.def Info: Imagenes/Figura15.png  used on input line 1940.
+Package pdftex.def Info: Imagenes/Figura15.png  used on input line 1946.
 (pdftex.def)             Requested size: 56.90575pt x 56.90662pt.
 
-Overfull \hbox (2.27582pt too wide) in paragraph at lines 1957--1959
+Overfull \hbox (2.27582pt too wide) in paragraph at lines 1963--1965
 [] 
  []
 
 
-Overfull \hbox (2.27582pt too wide) in paragraph at lines 1960--1962
+Overfull \hbox (2.27582pt too wide) in paragraph at lines 1966--1968
 [] 
  []
 
 
-Overfull \hbox (4.3431pt too wide) in paragraph at lines 1963--1964
+Overfull \hbox (4.3431pt too wide) in paragraph at lines 1969--1970
 []\OT1/txr/m/n/12 Cargo:[]Fecha:[]/[]/[]Hora:[]:[] 
  []
 
 
-Overfull \hbox (2.27582pt too wide) in paragraph at lines 1965--1968
+Overfull \hbox (2.27582pt too wide) in paragraph at lines 1971--1974
 []
  []
 
 
-Overfull \hbox (2.27582pt too wide) in paragraph at lines 1965--1968
+Overfull \hbox (2.27582pt too wide) in paragraph at lines 1971--1974
 [] 
  []
 
 
-Overfull \hbox (2.27582pt too wide) in paragraph at lines 1969--1972
+Overfull \hbox (2.27582pt too wide) in paragraph at lines 1975--1978
 []
  []
 
 
-Overfull \hbox (2.27582pt too wide) in paragraph at lines 1969--1972
+Overfull \hbox (2.27582pt too wide) in paragraph at lines 1975--1978
 [] 
  []
 
-[75]
-Overfull \hbox (2.27582pt too wide) in paragraph at lines 1973--1976
+[77]
+Overfull \hbox (2.27582pt too wide) in paragraph at lines 1979--1982
 []
  []
 
 
-Overfull \hbox (2.27582pt too wide) in paragraph at lines 1973--1976
+Overfull \hbox (2.27582pt too wide) in paragraph at lines 1979--1982
 [] 
  []
 
-[76]
-<Imagenes/Figura36.png, id=793, 171.64125pt x 43.66313pt>
+[78]
+<Imagenes/Figura36.png, id=817, 171.64125pt x 43.66313pt>
 File: Imagenes/Figura36.png Graphic file (type png)
 <use Imagenes/Figura36.png>
-Package pdftex.def Info: Imagenes/Figura36.png  used on input line 1988.
+Package pdftex.def Info: Imagenes/Figura36.png  used on input line 1994.
 (pdftex.def)             Requested size: 170.71628pt x 42.68163pt.
 File: Imagenes/Figura1.png Graphic file (type png)
 <use Imagenes/Figura1.png>
-Package pdftex.def Info: Imagenes/Figura1.png  used on input line 1991.
+Package pdftex.def Info: Imagenes/Figura1.png  used on input line 1997.
 (pdftex.def)             Requested size: 56.9063pt x 42.67886pt.
 File: Imagenes/Figura14.png Graphic file (type png)
 <use Imagenes/Figura14.png>
-Package pdftex.def Info: Imagenes/Figura14.png  used on input line 1991.
+Package pdftex.def Info: Imagenes/Figura14.png  used on input line 1997.
 (pdftex.def)             Requested size: 56.90561pt x 42.67928pt.
 File: Imagenes/Figura15.png Graphic file (type png)
 <use Imagenes/Figura15.png>
-Package pdftex.def Info: Imagenes/Figura15.png  used on input line 1991.
+Package pdftex.def Info: Imagenes/Figura15.png  used on input line 1997.
 (pdftex.def)             Requested size: 56.90575pt x 42.67963pt.
 
-Overfull \hbox (85.35936pt too wide) in paragraph at lines 1991--1991
+Overfull \hbox (85.35936pt too wide) in paragraph at lines 1997--1997
 []|[]| []| []| 
  []
 
 
-Overfull \hbox (375.03384pt too wide) in paragraph at lines 2009--2009
+Overfull \hbox (375.03384pt too wide) in paragraph at lines 2015--2015
 []|\OT1/txr/bx/n/10.95 Responsable:[]| 
  []
 
 
-Overfull \hbox (28.45274pt too wide) in paragraph at lines 2012--2012
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 2018--2018
 []|[]| 
  []
 
@@ -3053,35 +3062,35 @@ Overfull \hbox (28.45274pt too wide) in paragraph at lines 2012--2012
 Overfull \vbox (2.57137pt too high) has occurred while \output is active []
 
 
-[77 <./Imagenes/Figura36.png>]
+[79 <./Imagenes/Figura36.png>]
 File: Imagenes/Figura36.png Graphic file (type png)
 <use Imagenes/Figura36.png>
-Package pdftex.def Info: Imagenes/Figura36.png  used on input line 2060.
+Package pdftex.def Info: Imagenes/Figura36.png  used on input line 2066.
 (pdftex.def)             Requested size: 170.71628pt x 42.68163pt.
 File: Imagenes/Figura1.png Graphic file (type png)
 <use Imagenes/Figura1.png>
-Package pdftex.def Info: Imagenes/Figura1.png  used on input line 2063.
+Package pdftex.def Info: Imagenes/Figura1.png  used on input line 2069.
 (pdftex.def)             Requested size: 56.9063pt x 42.67886pt.
 File: Imagenes/Figura14.png Graphic file (type png)
 <use Imagenes/Figura14.png>
-Package pdftex.def Info: Imagenes/Figura14.png  used on input line 2063.
+Package pdftex.def Info: Imagenes/Figura14.png  used on input line 2069.
 (pdftex.def)             Requested size: 56.90561pt x 42.67928pt.
 File: Imagenes/Figura15.png Graphic file (type png)
 <use Imagenes/Figura15.png>
-Package pdftex.def Info: Imagenes/Figura15.png  used on input line 2063.
+Package pdftex.def Info: Imagenes/Figura15.png  used on input line 2069.
 (pdftex.def)             Requested size: 56.90575pt x 42.67963pt.
 
-Overfull \hbox (85.35936pt too wide) in paragraph at lines 2063--2063
+Overfull \hbox (85.35936pt too wide) in paragraph at lines 2069--2069
 []|[]| []| []| 
  []
 
 
-Overfull \hbox (375.03384pt too wide) in paragraph at lines 2078--2078
+Overfull \hbox (375.03384pt too wide) in paragraph at lines 2084--2084
 []|\OT1/txr/bx/n/10.95 Responsable:[]| 
  []
 
 
-Overfull \hbox (28.45274pt too wide) in paragraph at lines 2081--2081
+Overfull \hbox (28.45274pt too wide) in paragraph at lines 2087--2087
 []|[]| 
  []
 
@@ -3089,295 +3098,295 @@ Overfull \hbox (28.45274pt too wide) in paragraph at lines 2081--2081
 Overfull \vbox (2.57137pt too high) has occurred while \output is active []
 
 
-[78] [79]
-Overfull \hbox (0.61908pt too wide) in paragraph at lines 2160--2160
+[80] [81]
+Overfull \hbox (0.61908pt too wide) in paragraph at lines 2166--2166
  []|\OT1/txr/m/n/12 10| 
  []
 
 
-Overfull \hbox (0.61908pt too wide) in paragraph at lines 2160--2160
+Overfull \hbox (0.61908pt too wide) in paragraph at lines 2166--2166
  []|\OT1/txr/m/n/12 15| 
  []
 
 
-Overfull \hbox (0.61908pt too wide) in paragraph at lines 2160--2160
+Overfull \hbox (0.61908pt too wide) in paragraph at lines 2166--2166
  []|\OT1/txr/m/n/12 20| 
  []
 
 
-Overfull \hbox (0.61908pt too wide) in paragraph at lines 2160--2160
+Overfull \hbox (0.61908pt too wide) in paragraph at lines 2166--2166
  []|\OT1/txr/m/n/12 25| 
  []
 
 
-Overfull \hbox (0.61908pt too wide) in paragraph at lines 2160--2160
+Overfull \hbox (0.61908pt too wide) in paragraph at lines 2166--2166
  []|\OT1/txr/m/n/12 30| 
  []
 
 
-Overfull \hbox (0.61908pt too wide) in paragraph at lines 2160--2160
+Overfull \hbox (0.61908pt too wide) in paragraph at lines 2166--2166
  []|\OT1/txr/m/n/12 35| 
  []
 
 
-Overfull \hbox (0.61908pt too wide) in paragraph at lines 2160--2160
+Overfull \hbox (0.61908pt too wide) in paragraph at lines 2166--2166
  []|\OT1/txr/m/n/12 40| 
  []
 
 
-Overfull \hbox (0.61908pt too wide) in paragraph at lines 2160--2160
+Overfull \hbox (0.61908pt too wide) in paragraph at lines 2166--2166
  []|\OT1/txr/m/n/12 45| 
  []
 
 
-Overfull \hbox (0.61908pt too wide) in paragraph at lines 2160--2160
+Overfull \hbox (0.61908pt too wide) in paragraph at lines 2166--2166
  []|\OT1/txr/m/n/12 50| 
  []
 
 
-Overfull \hbox (0.61908pt too wide) in paragraph at lines 2160--2160
+Overfull \hbox (0.61908pt too wide) in paragraph at lines 2166--2166
  []|\OT1/txr/m/n/12 55| 
  []
 
 
-Overfull \hbox (0.61908pt too wide) in paragraph at lines 2160--2160
+Overfull \hbox (0.61908pt too wide) in paragraph at lines 2166--2166
  []|\OT1/txr/m/n/12 60| 
  []
 
 
-Overfull \hbox (0.61908pt too wide) in paragraph at lines 2160--2160
+Overfull \hbox (0.61908pt too wide) in paragraph at lines 2166--2166
  []|\OT1/txr/m/n/12 65| 
  []
 
 
-Overfull \hbox (0.61908pt too wide) in paragraph at lines 2160--2160
+Overfull \hbox (0.61908pt too wide) in paragraph at lines 2166--2166
  []|\OT1/txr/m/n/12 70| 
  []
 
 
-Overfull \hbox (0.61908pt too wide) in paragraph at lines 2160--2160
+Overfull \hbox (0.61908pt too wide) in paragraph at lines 2166--2166
  []|\OT1/txr/m/n/12 75| 
  []
 
 
-Overfull \hbox (0.61908pt too wide) in paragraph at lines 2160--2160
+Overfull \hbox (0.61908pt too wide) in paragraph at lines 2166--2166
  []|\OT1/txr/m/n/12 80| 
  []
 
 
-Overfull \hbox (0.61908pt too wide) in paragraph at lines 2160--2160
+Overfull \hbox (0.61908pt too wide) in paragraph at lines 2166--2166
  []|\OT1/txr/m/n/12 85| 
  []
 
 
-Overfull \hbox (0.61908pt too wide) in paragraph at lines 2160--2160
+Overfull \hbox (0.61908pt too wide) in paragraph at lines 2166--2166
  []|\OT1/txr/m/n/12 90| 
  []
 
 
-Overfull \hbox (0.61908pt too wide) in paragraph at lines 2160--2160
+Overfull \hbox (0.61908pt too wide) in paragraph at lines 2166--2166
  []|\OT1/txr/m/n/12 95| 
  []
 
 
-Overfull \hbox (6.61908pt too wide) in paragraph at lines 2160--2160
+Overfull \hbox (6.61908pt too wide) in paragraph at lines 2166--2166
  []|\OT1/txr/m/n/12 100| 
  []
 
 
-Overfull \vbox (26.50034pt too high) detected at line 2163
+Overfull \vbox (26.50034pt too high) detected at line 2169
  []
 
 
-Overfull \vbox (8.7584pt too high) detected at line 2167
+Overfull \vbox (8.7584pt too high) detected at line 2173
  []
 
 
-Overfull \vbox (17.00034pt too high) detected at line 2171
+Overfull \vbox (17.00034pt too high) detected at line 2177
  []
 
 
-Overfull \vbox (17.00034pt too high) detected at line 2175
+Overfull \vbox (17.00034pt too high) detected at line 2181
  []
 
 
-Overfull \hbox (6.84576pt too wide) in paragraph at lines 2179--2179
+Overfull \hbox (6.84576pt too wide) in paragraph at lines 2185--2185
 []|\OT1/txr/m/n/10.95 INTENCIONALIDAD| 
  []
 
 
-Overfull \vbox (7.50034pt too high) detected at line 2179
+Overfull \vbox (7.50034pt too high) detected at line 2185
  []
 
 
-Overfull \vbox (7.54034pt too high) detected at line 2183
+Overfull \vbox (7.54034pt too high) detected at line 2189
  []
 
 
-Overfull \vbox (17.00034pt too high) detected at line 2187
+Overfull \vbox (17.00034pt too high) detected at line 2193
  []
 
 
-Overfull \vbox (7.54034pt too high) detected at line 2191
+Overfull \vbox (7.54034pt too high) detected at line 2197
  []
 
 
 Overfull \vbox (4.73647pt too high) has occurred while \output is active []
 
 
-[80]
-Overfull \hbox (2.27582pt too wide) in paragraph at lines 2213--2219
+[82]
+Overfull \hbox (2.27582pt too wide) in paragraph at lines 2219--2225
 [] 
  []
 
 
-Overfull \hbox (2.27582pt too wide) in paragraph at lines 2213--2219
+Overfull \hbox (2.27582pt too wide) in paragraph at lines 2219--2225
 [] 
  []
 
 
-Overfull \hbox (2.27582pt too wide) in paragraph at lines 2213--2219
+Overfull \hbox (2.27582pt too wide) in paragraph at lines 2219--2225
 [] 
  []
 
 
-Overfull \hbox (2.27582pt too wide) in paragraph at lines 2213--2219
+Overfull \hbox (2.27582pt too wide) in paragraph at lines 2219--2225
 [] 
  []
 
 LaTeX Font Info:    Font shape `TS1/txr/b/n' in size <12> not available
-(Font)              Font shape `TS1/txr/bx/n' tried instead on input line 2229.
+(Font)              Font shape `TS1/txr/bx/n' tried instead on input line 2235.
 
-[81]
-Overfull \hbox (9.41847pt too wide) in paragraph at lines 2304--2304
+[83]
+Overfull \hbox (9.41847pt too wide) in paragraph at lines 2310--2310
 []|\OT1/txr/bx/n/12 EVALUADO 
  []
 
-[82]
-<Imagenes/Figura16.png, id=820, 1028.34187pt x 548.80031pt>
+[84]
+<Imagenes/Figura16.png, id=844, 1028.34187pt x 548.80031pt>
 File: Imagenes/Figura16.png Graphic file (type png)
 <use Imagenes/Figura16.png>
-Package pdftex.def Info: Imagenes/Figura16.png  used on input line 2366.
+Package pdftex.def Info: Imagenes/Figura16.png  used on input line 2372.
 (pdftex.def)             Requested size: 398.33714pt x 227.62227pt.
-<Imagenes/Figura17.png, id=821, 1028.34187pt x 548.80031pt>
+<Imagenes/Figura17.png, id=845, 1028.34187pt x 548.80031pt>
 File: Imagenes/Figura17.png Graphic file (type png)
 <use Imagenes/Figura17.png>
-Package pdftex.def Info: Imagenes/Figura17.png  used on input line 2370.
+Package pdftex.def Info: Imagenes/Figura17.png  used on input line 2376.
 (pdftex.def)             Requested size: 398.33714pt x 227.62227pt.
- [83 <./Imagenes/Figura16.png> <./Imagenes/Figura17.png>] [84] [85]
-<Imagenes/Figura18.png, id=835, 314.67563pt x 117.43875pt>
+ [85 <./Imagenes/Figura16.png> <./Imagenes/Figura17.png>] [86] [87]
+<Imagenes/Figura18.png, id=859, 314.67563pt x 117.43875pt>
 File: Imagenes/Figura18.png Graphic file (type png)
 <use Imagenes/Figura18.png>
-Package pdftex.def Info: Imagenes/Figura18.png  used on input line 2402.
+Package pdftex.def Info: Imagenes/Figura18.png  used on input line 2408.
 (pdftex.def)             Requested size: 170.71455pt x 56.90575pt.
-<Imagenes/Figura19.png, id=836, 307.1475pt x 118.19156pt>
+<Imagenes/Figura19.png, id=860, 307.1475pt x 118.19156pt>
 File: Imagenes/Figura19.png Graphic file (type png)
 <use Imagenes/Figura19.png>
-Package pdftex.def Info: Imagenes/Figura19.png  used on input line 2406.
+Package pdftex.def Info: Imagenes/Figura19.png  used on input line 2412.
 (pdftex.def)             Requested size: 170.71727pt x 56.90623pt.
-<Imagenes/Figura20.png, id=837, 296.60812pt x 168.63pt>
+<Imagenes/Figura20.png, id=861, 296.60812pt x 168.63pt>
 File: Imagenes/Figura20.png Graphic file (type png)
 <use Imagenes/Figura20.png>
-Package pdftex.def Info: Imagenes/Figura20.png  used on input line 2410.
+Package pdftex.def Info: Imagenes/Figura20.png  used on input line 2416.
 (pdftex.def)             Requested size: 199.17447pt x 113.8126pt.
-<Imagenes/Figura21.png, id=838, 295.1025pt x 169.38281pt>
+<Imagenes/Figura21.png, id=862, 295.1025pt x 169.38281pt>
 File: Imagenes/Figura21.png Graphic file (type png)
 <use Imagenes/Figura21.png>
-Package pdftex.def Info: Imagenes/Figura21.png  used on input line 2414.
+Package pdftex.def Info: Imagenes/Figura21.png  used on input line 2420.
 (pdftex.def)             Requested size: 199.17207pt x 113.81412pt.
-<Imagenes/Figura22.png, id=839, 295.1025pt x 169.38281pt>
+<Imagenes/Figura22.png, id=863, 295.1025pt x 169.38281pt>
 File: Imagenes/Figura22.png Graphic file (type png)
 <use Imagenes/Figura22.png>
-Package pdftex.def Info: Imagenes/Figura22.png  used on input line 2418.
+Package pdftex.def Info: Imagenes/Figura22.png  used on input line 2424.
 (pdftex.def)             Requested size: 199.17207pt x 113.81412pt.
 
-[86 <./Imagenes/Figura18.png> <./Imagenes/Figura19.png> <./Imagenes/Figura20.pn
+[88 <./Imagenes/Figura18.png> <./Imagenes/Figura19.png> <./Imagenes/Figura20.pn
 g> <./Imagenes/Figura21.png> <./Imagenes/Figura22.png>]
-<Imagenes/Figura23.png, id=844, 295.85532pt x 170.88844pt>
+<Imagenes/Figura23.png, id=868, 295.85532pt x 170.88844pt>
 File: Imagenes/Figura23.png Graphic file (type png)
 <use Imagenes/Figura23.png>
-Package pdftex.def Info: Imagenes/Figura23.png  used on input line 2423.
+Package pdftex.def Info: Imagenes/Figura23.png  used on input line 2429.
 (pdftex.def)             Requested size: 199.17456pt x 113.81409pt.
-<Imagenes/Figura24.png, id=845, 295.85532pt x 171.64125pt>
+<Imagenes/Figura24.png, id=869, 295.85532pt x 171.64125pt>
 File: Imagenes/Figura24.png Graphic file (type png)
 <use Imagenes/Figura24.png>
-Package pdftex.def Info: Imagenes/Figura24.png  used on input line 2427.
+Package pdftex.def Info: Imagenes/Figura24.png  used on input line 2433.
 (pdftex.def)             Requested size: 199.17456pt x 113.80998pt.
-<Imagenes/Figura25.png, id=846, 279.29344pt x 161.85469pt>
+<Imagenes/Figura25.png, id=870, 279.29344pt x 161.85469pt>
 File: Imagenes/Figura25.png Graphic file (type png)
 <use Imagenes/Figura25.png>
-Package pdftex.def Info: Imagenes/Figura25.png  used on input line 2431.
+Package pdftex.def Info: Imagenes/Figura25.png  used on input line 2437.
 (pdftex.def)             Requested size: 199.17337pt x 113.81119pt.
-<Imagenes/Figura26.png, id=847, 277.78781pt x 162.6075pt>
+<Imagenes/Figura26.png, id=871, 277.78781pt x 162.6075pt>
 File: Imagenes/Figura26.png Graphic file (type png)
 <use Imagenes/Figura26.png>
-Package pdftex.def Info: Imagenes/Figura26.png  used on input line 2435.
+Package pdftex.def Info: Imagenes/Figura26.png  used on input line 2441.
 (pdftex.def)             Requested size: 199.17203pt x 113.81454pt.
- [87 <./Imagenes/Figura23.png> <./Imagenes/Figura24.png> <./Imagenes/Figura25.p
+ [89 <./Imagenes/Figura23.png> <./Imagenes/Figura24.png> <./Imagenes/Figura25.p
 ng> <./Imagenes/Figura26.png>]
-<Imagenes/Figura27.png, id=852, 282.30469pt x 164.86594pt>
+<Imagenes/Figura27.png, id=876, 282.30469pt x 164.86594pt>
 File: Imagenes/Figura27.png Graphic file (type png)
 <use Imagenes/Figura27.png>
-Package pdftex.def Info: Imagenes/Figura27.png  used on input line 2440.
+Package pdftex.def Info: Imagenes/Figura27.png  used on input line 2446.
 (pdftex.def)             Requested size: 199.17128pt x 113.81294pt.
-<Imagenes/Figura28.png, id=853, 269.50688pt x 91.09032pt>
+<Imagenes/Figura28.png, id=877, 269.50688pt x 91.09032pt>
 File: Imagenes/Figura28.png Graphic file (type png)
 <use Imagenes/Figura28.png>
-Package pdftex.def Info: Imagenes/Figura28.png  used on input line 2446.
+Package pdftex.def Info: Imagenes/Figura28.png  used on input line 2452.
 (pdftex.def)             Requested size: 170.7196pt x 56.90488pt.
-<Imagenes/Figura29.png, id=854, 269.50688pt x 90.3375pt>
+<Imagenes/Figura29.png, id=878, 269.50688pt x 90.3375pt>
 File: Imagenes/Figura29.png Graphic file (type png)
 <use Imagenes/Figura29.png>
-Package pdftex.def Info: Imagenes/Figura29.png  used on input line 2451.
+Package pdftex.def Info: Imagenes/Figura29.png  used on input line 2457.
 (pdftex.def)             Requested size: 170.7196pt x 56.90602pt.
- [88 <./Imagenes/Figura27.png> <./Imagenes/Figura28.png> <./Imagenes/Figura29.p
+ [90 <./Imagenes/Figura27.png> <./Imagenes/Figura28.png> <./Imagenes/Figura29.p
 ng>]
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <8> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 2468.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 2474.
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 2475--2476
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 2481--2482
 []|\OT1/txr/m/n/8 2012| 
  []
 
 
-Overfull \hbox (1.77364pt too wide) in paragraph at lines 2483--2484
+Overfull \hbox (1.77364pt too wide) in paragraph at lines 2489--2490
 []|\OT1/txr/m/n/8 2013| 
  []
 
-[89
+[91
 
-] [90]
+] [92]
 LaTeX Font Info:    Trying to load font information for OT1+txtt on input line 
-2553.
+2559.
  ("C:\Program Files\MiKTeX\tex/latex/txfonts\ot1txtt.fd"
 File: ot1txtt.fd 2000/12/15 v3.1
-) [91]
-[92] [93] [94]
-<Imagenes/Figura41.png, id=886, 248.42813pt x 210.03468pt>
+) [93]
+[94] [95] [96]
+<Imagenes/Figura41.png, id=910, 248.42813pt x 210.03468pt>
 File: Imagenes/Figura41.png Graphic file (type png)
 <use Imagenes/Figura41.png>
-Package pdftex.def Info: Imagenes/Figura41.png  used on input line 2641.
+Package pdftex.def Info: Imagenes/Figura41.png  used on input line 2647.
 (pdftex.def)             Requested size: 113.81206pt x 113.81123pt.
- [95 <./Imagenes/Figura41.png>] [96] [97] [98]
+ [97 <./Imagenes/Figura41.png>] [98] [99] [100]
 (CISC_2020_Plantilla_TT_Proyecto_Investigaci처n.aux
-LaTeX Info: Redefining \. on input line 25.
-LaTeX Info: Redefining \% on input line 25.
+LaTeX Info: Redefining \. on input line 28.
+LaTeX Info: Redefining \% on input line 28.
 )
 Package rerunfilecheck Info: File `CISC_2020_Plantilla_TT_Proyecto_Investigaci�
 쿻.out' has not changed.
-(rerunfilecheck)             Checksum: 06964AE361A4645F6073826C66D27BCA;5901.
+(rerunfilecheck)             Checksum: A71202D1A66B9B38BD244EEBE9353486;5950.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 27519 strings out of 479799
- 533827 string characters out of 2879593
- 903467 words of memory out of 3000000
- 43656 multiletter control sequences out of 15000+200000
- 581665 words of font info for 138 fonts, out of 3000000 for 9000
+ 27556 strings out of 479799
+ 534629 string characters out of 2879593
+ 902529 words of memory out of 3000000
+ 43681 multiletter control sequences out of 15000+200000
+ 583684 words of font info for 141 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,14n,109p,1105b,680s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX
@@ -3388,11 +3397,12 @@ es/MiKTeX/fonts/type1/public/txfonts/txsy.pfb><C:/Program Files/MiKTeX/fonts/ty
 pe1/public/txfonts/txtt.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb
 8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Program F
 iles/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/typ
-e1/urw/times/utmri8a.pfb>
-Output written on CISC_2020_Plantilla_TT_Proyecto_Investigaci처n.pdf (98 pages,
- 1665703 bytes).
+e1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.
+pfb>
+Output written on CISC_2020_Plantilla_TT_Proyecto_Investigaci처n.pdf (100 pages
+, 1679351 bytes).
 PDF statistics:
- 983 PDF objects out of 1000 (max. 8388607)
- 199 named destinations out of 1000 (max. 500000)
- 802 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1011 PDF objects out of 1200 (max. 8388607)
+ 205 named destinations out of 1000 (max. 500000)
+ 810 words of extra memory for PDF output out of 10000 (max. 10000000)
 

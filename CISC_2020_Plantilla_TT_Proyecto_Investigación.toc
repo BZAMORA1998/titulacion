@@ -1,80 +1,81 @@
 \babel@toc {spanish}{}
-\contentsline {section}{\normalsize FICHA DE REGISTRO DE TRABAJO DE TITULACIÓN}{2}{section*.1}%
-\contentsline {section}{\normalsize APROBACIÓN DEL TUTOR}{3}{section*.2}%
-\contentsline {section}{\normalsize DEDICATORIA}{4}{section*.3}%
-\contentsline {section}{\normalsize AGRADECIMIENTO}{5}{section*.4}%
-\contentsline {section}{\normalsize TRIBUNAL DE PROYECTO DE TITULACIÓN}{6}{section*.5}%
-\contentsline {section}{\normalsize DECLARACIÓN EXPRESA}{7}{section*.6}%
-\contentsline {section}{\normalsize CESIÓN DE DERECHOS DE AUTOR}{8}{section*.7}%
-\contentsline {section}{\normalsize CERTIFICADO DE ACEPTACIÓN DEL TUTOR(A)}{10}{section*.8}%
-\contentsline {section}{\normalsize AUTORIZACIÓN PARA PUBLICACIÓN DE PROYECTO DE TITULACIÓN EN FORMATO DIGITAL}{11}{section*.9}%
-\contentsline {section}{\normalsize ÍNDICE GENERAL}{12}{section*.10}%
-\contentsline {section}{\normalsize ÍNDICE DE TABLAS}{17}{section*.12}%
-\contentsline {section}{\normalsize ÍNDICE DE FIGURAS}{18}{section*.14}%
-\contentsline {section}{\normalsize ABREVIATURAS}{19}{section*.16}%
-\contentsline {section}{\normalsize SIMBOLOGÍA}{20}{section*.17}%
-\contentsline {section}{\normalsize RESUMEN}{21}{section*.18}%
-\contentsline {section}{\normalsize ABSTRACT}{22}{section*.19}%
-\contentsline {section}{\normalsize INTRODUCCIÓN}{23}{section*.20}%
-\contentsline {section}{\normalsize CAPÍTULO I - PLANTEAMIENTO DEL PROBLEMA}{24}{section*.21}%
-\contentsline {section}{\normalsize \centering Descripción de la situación problemática}{24}{section*.22}%
-\contentsline {subsection}{Ubicación del problema en un contexto}{24}{section*.23}%
-\contentsline {subsection}{Situación conflicto nudos críticos}{24}{section*.24}%
-\contentsline {subsection}{Delimitación del problema}{24}{section*.25}%
-\contentsline {subsection}{Evaluación del roblema}{25}{section*.27}%
-\contentsline {section}{\normalsize \centering Causas y consecuencias del problema}{26}{section*.28}%
-\contentsline {section}{\normalsize \centering Formulación del problema}{27}{section*.30}%
-\contentsline {section}{\normalsize \centering Objetivos del proyecto}{28}{section*.31}%
-\contentsline {subsection}{Objetivo general}{28}{section*.32}%
-\contentsline {subsection}{Objetivo específicos}{29}{section*.34}%
-\contentsline {section}{\normalsize \centering Alcance del proyecto}{30}{section*.35}%
-\contentsline {section}{\normalsize \centering Justificación e importancia}{31}{section*.36}%
-\contentsline {section}{\normalsize \centering Limitaciones del estudio}{31}{section*.37}%
-\contentsline {section}{\normalsize CAPÍTULO II - MARCO TEÓRICO}{32}{section*.38}%
-\contentsline {section}{\normalsize \centering Antecedentes del estudio}{32}{section*.39}%
-\contentsline {section}{\normalsize \centering Fundamentación teórica}{32}{section*.40}%
-\contentsline {section}{\normalsize \centering Revisiones sistemáticas}{34}{section*.42}%
-\contentsline {subsection}{Meta-análisis}{34}{section*.43}%
-\contentsline {section}{\normalsize \centering Hipótesis / Preguntas científicas a contestarse}{35}{section*.44}%
-\contentsline {section}{\normalsize \centering Variables de la investigación}{35}{section*.45}%
-\contentsline {section}{\normalsize \centering Definiciones conceptuales}{36}{section*.46}%
-\contentsline {section}{\normalsize CAPÍTULO III - METODOLOGÍA DE LA INVESTIGACIÓN}{37}{section*.47}%
-\contentsline {section}{\normalsize \centering Modalidad de la investigación}{37}{section*.48}%
-\contentsline {section}{\normalsize \centering Tipo de investigación}{37}{section*.49}%
-\contentsline {section}{\normalsize \centering Diseño metodológico de la investigación}{41}{section*.51}%
-\contentsline {subsection}{Metodología de investigación}{42}{section*.52}%
-\contentsline {subsubsection}{Población y muestra}{42}{section*.53}%
-\contentsline {subsubsection}{Procesamiento y análisis}{46}{section*.56}%
-\contentsline {paragraph}{Técnicas de recolección de datos}{46}{section*.57}%
-\contentsline {paragraph}{Técnicas estadísticas para el procesamiento de la información}{48}{section*.58}%
-\contentsline {section}{Metodología de gestión del proyecto (opcional)}{51}{section*.61}%
-\contentsline {subsubsection}{Etapas de la metodología del proyecto }{51}{section*.62}%
-\contentsline {section}{Metodología de desarrollo de prototipo (Opcional)}{51}{section*.63}%
-\contentsline {section}{\textbf {Beneficiarios directos e indirectos del proyecto}}{53}{section*.64}%
-\contentsline {section}{Entregables del proyecto}{54}{section*.65}%
-\contentsline {section}{\normalsize \centering Propuesta}{55}{section*.66}%
-\contentsline {section}{\textbf {Criterios de validación de la propuesta}}{55}{section*.67}%
-\contentsline {section}{\textbf {Resultados}}{56}{section*.69}%
-\contentsline {section}{\normalsize CAPÍTULO IV - CONCLUSIONES Y RECOMENDACIONES}{58}{section*.71}%
-\contentsline {section}{\normalsize \centering Conclusiones}{58}{section*.72}%
-\contentsline {section}{\normalsize \centering Recomendaciones}{58}{section*.73}%
-\contentsline {section}{\normalsize \centering Trabajos futuros}{59}{section*.74}%
-\contentsline {section}{\normalsize REFERENCIAS BIBLIOGRÁFICAS}{60}{section*.75}%
-\contentsline {section}{\normalsize BIBLIOGRAFÍA}{61}{section*.76}%
-\contentsline {section}{\normalsize ANEXOS}{62}{section*.77}%
-\contentsline {subsection}{Anexo 1. Planificación de actividades del proyecto}{64}{section*.78}%
-\contentsline {subsection}{Anexo 2. Geo-localización del problema}{66}{section*.79}%
-\contentsline {subsection}{Anexo 3. Carta de autorización del proyecto}{67}{section*.80}%
-\contentsline {subsection}{Anexo 4. Fundamentación legal}{68}{section*.81}%
-\contentsline {subsection}{Anexo 5. Criterios éticos a utilizarse en el desarrollo del proyecto}{72}{section*.84}%
-\contentsline {subsection}{Anexo 6. Formato de técnicas de recolección de datos aplicadas}{73}{section*.86}%
-\contentsline {subsection}{Anexo 7. Validación de expertos}{79}{section*.87}%
-\contentsline {subsection}{Anexo 8. Bases de datos para análisis estadístico (Opcional)}{83}{section*.89}%
-\contentsline {subsection}{Anexo 9. Diagramas de casos de uso (Dependiendo de la metodología que aplique en el proyecto)}{90}{section*.90}%
-\contentsline {subsection}{Anexo 10. Acta de entrega y recepción definitiva}{91}{section*.91}%
-\contentsline {subsection}{Anexo 11. Carta de uso de software (Aplica según se requiera)}{93}{section*.92}%
-\contentsline {subsection}{Anexo 12. Evidencias fotográficas adicionales (Opcional)}{94}{section*.93}%
-\contentsline {subsection}{Anexo 13. Manual técnico}{96}{section*.95}%
-\contentsline {subsection}{Anexo 14. Manual de usuario}{97}{section*.96}%
-\contentsline {subsection}{Anexo 15. Artículo científico}{98}{section*.97}%
+\contentsline {section}{Referencias}{2}{section*.1}%
+\contentsline {section}{\normalsize FICHA DE REGISTRO DE TRABAJO DE TITULACIÓN}{3}{section*.2}%
+\contentsline {section}{\normalsize APROBACIÓN DEL TUTOR}{4}{section*.3}%
+\contentsline {section}{\normalsize DEDICATORIA}{5}{section*.4}%
+\contentsline {section}{\normalsize AGRADECIMIENTO}{6}{section*.5}%
+\contentsline {section}{\normalsize TRIBUNAL DE PROYECTO DE TITULACIÓN}{7}{section*.6}%
+\contentsline {section}{\normalsize DECLARACIÓN EXPRESA}{8}{section*.7}%
+\contentsline {section}{\normalsize CESIÓN DE DERECHOS DE AUTOR}{9}{section*.8}%
+\contentsline {section}{\normalsize CERTIFICADO DE ACEPTACIÓN DEL TUTOR(A)}{11}{section*.9}%
+\contentsline {section}{\normalsize AUTORIZACIÓN PARA PUBLICACIÓN DE PROYECTO DE TITULACIÓN EN FORMATO DIGITAL}{12}{section*.10}%
+\contentsline {section}{\normalsize ÍNDICE GENERAL}{13}{section*.11}%
+\contentsline {section}{\normalsize ÍNDICE DE TABLAS}{18}{section*.13}%
+\contentsline {section}{\normalsize ÍNDICE DE FIGURAS}{19}{section*.15}%
+\contentsline {section}{\normalsize ABREVIATURAS}{20}{section*.17}%
+\contentsline {section}{\normalsize SIMBOLOGÍA}{21}{section*.18}%
+\contentsline {section}{\normalsize RESUMEN}{22}{section*.19}%
+\contentsline {section}{\normalsize ABSTRACT}{23}{section*.20}%
+\contentsline {section}{\normalsize INTRODUCCIÓN}{24}{section*.21}%
+\contentsline {section}{\normalsize CAPÍTULO I - PLANTEAMIENTO DEL PROBLEMA}{25}{section*.22}%
+\contentsline {section}{\normalsize \centering Descripción de la situación problemática}{25}{section*.23}%
+\contentsline {subsection}{Ubicación del problema en un contexto}{25}{section*.24}%
+\contentsline {subsection}{Situación conflicto nudos críticos}{26}{section*.25}%
+\contentsline {subsection}{Delimitación del problema}{26}{section*.26}%
+\contentsline {subsection}{Evaluación del roblema}{27}{section*.28}%
+\contentsline {section}{\normalsize \centering Causas y consecuencias del problema}{28}{section*.29}%
+\contentsline {section}{\normalsize \centering Formulación del problema}{29}{section*.31}%
+\contentsline {section}{\normalsize \centering Objetivos del proyecto}{30}{section*.32}%
+\contentsline {subsection}{Objetivo general}{30}{section*.33}%
+\contentsline {subsection}{Objetivo específicos}{31}{section*.35}%
+\contentsline {section}{\normalsize \centering Alcance del proyecto}{32}{section*.36}%
+\contentsline {section}{\normalsize \centering Justificación e importancia}{33}{section*.37}%
+\contentsline {section}{\normalsize \centering Limitaciones del estudio}{33}{section*.38}%
+\contentsline {section}{\normalsize CAPÍTULO II - MARCO TEÓRICO}{34}{section*.39}%
+\contentsline {section}{\normalsize \centering Antecedentes del estudio}{34}{section*.40}%
+\contentsline {section}{\normalsize \centering Fundamentación teórica}{34}{section*.41}%
+\contentsline {section}{\normalsize \centering Revisiones sistemáticas}{36}{section*.43}%
+\contentsline {subsection}{Meta-análisis}{36}{section*.44}%
+\contentsline {section}{\normalsize \centering Hipótesis / Preguntas científicas a contestarse}{37}{section*.45}%
+\contentsline {section}{\normalsize \centering Variables de la investigación}{37}{section*.46}%
+\contentsline {section}{\normalsize \centering Definiciones conceptuales}{38}{section*.47}%
+\contentsline {section}{\normalsize CAPÍTULO III - METODOLOGÍA DE LA INVESTIGACIÓN}{39}{section*.48}%
+\contentsline {section}{\normalsize \centering Modalidad de la investigación}{39}{section*.49}%
+\contentsline {section}{\normalsize \centering Tipo de investigación}{39}{section*.50}%
+\contentsline {section}{\normalsize \centering Diseño metodológico de la investigación}{43}{section*.52}%
+\contentsline {subsection}{Metodología de investigación}{44}{section*.53}%
+\contentsline {subsubsection}{Población y muestra}{44}{section*.54}%
+\contentsline {subsubsection}{Procesamiento y análisis}{48}{section*.57}%
+\contentsline {paragraph}{Técnicas de recolección de datos}{48}{section*.58}%
+\contentsline {paragraph}{Técnicas estadísticas para el procesamiento de la información}{50}{section*.59}%
+\contentsline {section}{Metodología de gestión del proyecto (opcional)}{53}{section*.62}%
+\contentsline {subsubsection}{Etapas de la metodología del proyecto }{53}{section*.63}%
+\contentsline {section}{Metodología de desarrollo de prototipo (Opcional)}{53}{section*.64}%
+\contentsline {section}{\textbf {Beneficiarios directos e indirectos del proyecto}}{55}{section*.65}%
+\contentsline {section}{Entregables del proyecto}{56}{section*.66}%
+\contentsline {section}{\normalsize \centering Propuesta}{57}{section*.67}%
+\contentsline {section}{\textbf {Criterios de validación de la propuesta}}{57}{section*.68}%
+\contentsline {section}{\textbf {Resultados}}{58}{section*.70}%
+\contentsline {section}{\normalsize CAPÍTULO IV - CONCLUSIONES Y RECOMENDACIONES}{60}{section*.72}%
+\contentsline {section}{\normalsize \centering Conclusiones}{60}{section*.73}%
+\contentsline {section}{\normalsize \centering Recomendaciones}{60}{section*.74}%
+\contentsline {section}{\normalsize \centering Trabajos futuros}{61}{section*.75}%
+\contentsline {section}{\normalsize REFERENCIAS BIBLIOGRÁFICAS}{62}{section*.76}%
+\contentsline {section}{\normalsize BIBLIOGRAFÍA}{63}{section*.77}%
+\contentsline {section}{\normalsize ANEXOS}{64}{section*.78}%
+\contentsline {subsection}{Anexo 1. Planificación de actividades del proyecto}{66}{section*.79}%
+\contentsline {subsection}{Anexo 2. Geo-localización del problema}{68}{section*.80}%
+\contentsline {subsection}{Anexo 3. Carta de autorización del proyecto}{69}{section*.81}%
+\contentsline {subsection}{Anexo 4. Fundamentación legal}{70}{section*.82}%
+\contentsline {subsection}{Anexo 5. Criterios éticos a utilizarse en el desarrollo del proyecto}{74}{section*.85}%
+\contentsline {subsection}{Anexo 6. Formato de técnicas de recolección de datos aplicadas}{75}{section*.87}%
+\contentsline {subsection}{Anexo 7. Validación de expertos}{81}{section*.88}%
+\contentsline {subsection}{Anexo 8. Bases de datos para análisis estadístico (Opcional)}{85}{section*.90}%
+\contentsline {subsection}{Anexo 9. Diagramas de casos de uso (Dependiendo de la metodología que aplique en el proyecto)}{92}{section*.91}%
+\contentsline {subsection}{Anexo 10. Acta de entrega y recepción definitiva}{93}{section*.92}%
+\contentsline {subsection}{Anexo 11. Carta de uso de software (Aplica según se requiera)}{95}{section*.93}%
+\contentsline {subsection}{Anexo 12. Evidencias fotográficas adicionales (Opcional)}{96}{section*.94}%
+\contentsline {subsection}{Anexo 13. Manual técnico}{98}{section*.96}%
+\contentsline {subsection}{Anexo 14. Manual de usuario}{99}{section*.97}%
+\contentsline {subsection}{Anexo 15. Artículo científico}{100}{section*.98}%
 \contentsfinish 
